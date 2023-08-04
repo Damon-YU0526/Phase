@@ -1,0 +1,2 @@
+Ford1:model:2013:10000
+Wagen:mode2:2000:20000

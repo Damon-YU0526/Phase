@@ -1,0 +1,22 @@
+E:\work\_Freelancer\Liang Pro\c#\Phase1\Phase1\bin\Debug\Phase1.exe.config
+E:\work\_Freelancer\Liang Pro\c#\Phase1\Phase1\bin\Debug\Phase1.exe
+E:\work\_Freelancer\Liang Pro\c#\Phase1\Phase1\bin\Debug\Phase1.pdb
+E:\work\_Freelancer\Liang Pro\c#\Phase1\Phase1\obj\Debug\Phase1.csprojAssemblyReference.cache
+E:\work\_Freelancer\Liang Pro\c#\Phase1\Phase1\obj\Debug\Phase1.Form1.resources
+E:\work\_Freelancer\Liang Pro\c#\Phase1\Phase1\obj\Debug\Phase1.Properties.Resources.resources
+E:\work\_Freelancer\Liang Pro\c#\Phase1\Phase1\obj\Debug\Phase1.csproj.GenerateResource.cache
+E:\work\_Freelancer\Liang Pro\c#\Phase1\Phase1\obj\Debug\Phase1.csproj.CoreCompileInputs.cache
+E:\work\_Freelancer\Liang Pro\c#\Phase1\Phase1\obj\Debug\Phase1.exe
+E:\work\_Freelancer\Liang Pro\c#\Phase1\Phase1\obj\Debug\Phase1.pdb
+C:\Users\Damon\Desktop\Phase1\Phase1\obj\Debug\Phase1.exe
+C:\Users\Damon\Desktop\Phase1\Phase1\obj\Debug\Phase1.pdb
+E:\Phase1\Phase1\obj\Debug\Phase1.exe
+E:\Phase1\Phase1\obj\Debug\Phase1.pdb
+E:\Phase1\Phase1\bin\Debug\Phase1.exe.config
+E:\Phase1\Phase1\bin\Debug\Phase1.exe
+E:\Phase1\Phase1\bin\Debug\Phase1.pdb
+E:\Phase1\Phase1\obj\Debug\Phase1.csproj.AssemblyReference.cache
+E:\Phase1\Phase1\obj\Debug\Phase1.Form1.resources
+E:\Phase1\Phase1\obj\Debug\Phase1.Properties.Resources.resources
+E:\Phase1\Phase1\obj\Debug\Phase1.csproj.GenerateResource.cache
+E:\Phase1\Phase1\obj\Debug\Phase1.csproj.CoreCompileInputs.cache
